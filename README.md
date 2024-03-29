@@ -30,9 +30,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgments
 We thank the open-source community and contributors for their valuable insights and contributions.
 Authors
-[Your Name or Organization]
+Brian Kimutai
 Contact
-For any queries or suggestions, please email us at [contact@email.com].
+For any queries or suggestions, please email us at [briankimu97@email.com].
 
 Project Status
 Active development and maintenance. Bug fixes and updates will be provided periodically.
